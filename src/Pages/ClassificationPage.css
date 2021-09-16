@@ -1,0 +1,16 @@
+.groups::-webkit-scrollbar-thumb {
+  background-color: #10b981;
+  border-radius: 20px;
+  border: 3px solid #6ee7b7;
+}
+.groups {
+  overflow-x: hidden;
+  scrollbar-color: #10b981 #6ee7b7;
+  scrollbar-width: thin;
+}
+.groups::-webkit-scrollbar-track {
+  background: #6ee7b7;
+}
+.groups::-webkit-scrollbar {
+  width: 12px;
+}

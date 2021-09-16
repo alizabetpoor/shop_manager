@@ -1,0 +1,8 @@
+.homepage tr {
+  border-collapse: collapse;
+  border: 1px solid white;
+  transition: 0.2s ease-in-out;
+}
+.homepage tbody > tr:hover {
+  background-color: #10b981;
+}
